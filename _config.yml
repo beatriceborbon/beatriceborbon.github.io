@@ -1,4 +1,6 @@
 # Site Settings
 title: Start Jekyll
+sass:
+    style: :compressed
 # config
-include: ['_pages']
+include: ['_pages', '_items']
