@@ -29,11 +29,17 @@
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 {% for post in site.posts %}
                 <div class="post-preview">
-                    <a href="{{ post.url}}">
+                    {% if post.link %}
+                    <a href="{{ post.link}}">
                         <h2 class="post-title">
                             {{ post.title }}
                         </h2>
-                   </a>
+                    </a>
+                    {% else %}
+                    <h2 class="post-title">
+                        {{ post.title }}
+                    </h2>
+                    {% endif %}
                    <p class="post-meta">{{post.publication_details}}</p>
                         {% if post.subtitle %}
                         <h3 class="post-subtitle">
