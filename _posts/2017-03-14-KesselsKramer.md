@@ -6,5 +6,5 @@ subtitle: I stepped inside a former church in Amsterdam to interview Erik Kessel
 permalink: /post3/
 image: post-bg.jpg
 date: 2017-03-14 00:10:45
-link: https://vimeo.com/199667641
+embed: <iframe src="https://player.vimeo.com/video/199667641?autoplay=1&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ---
