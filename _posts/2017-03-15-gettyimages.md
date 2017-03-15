@@ -6,4 +6,5 @@ subtitle: Getty Images’ Rebecca Swift explains how social media is influencing
 permalink: /post3/
 image: post-bg.jpg
 date: 2017-02-20 00:10:45
+link: http://www.ycn.org/membership/features/1211-a-change-in-image?preview=true
 ---
