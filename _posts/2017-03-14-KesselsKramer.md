@@ -6,5 +6,5 @@ subtitle: I step inside a former church in Amsterdam to interview Erik Kessels, 
 permalink: /post3/
 image: post-bg.jpg
 date: 2017-03-14 00:10:45
-link: http://www.ycn.org/work-with/companies/2043-kk-outlet
+link: beatriceborbon.github.io/assets/Member Stories- KesselsKramer (2).mp4
 ---
