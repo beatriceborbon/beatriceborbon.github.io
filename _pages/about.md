@@ -9,6 +9,6 @@ I currently work at [YCN](http://www.ycn.org/), a creative consultancy based in 
 
 Using a combination of qualitative, desk research and data, I’ve written reports for clients including Converse, adidas, Getty Images, Greenpeace, NSPCC and the Guardian.
 
-And I also have experience in producing video content and conducting interviews for film.
+And I have experience producing video content and conducting interviews for film.
 
 Get in touch! beatrice.borbon@gmail.com
