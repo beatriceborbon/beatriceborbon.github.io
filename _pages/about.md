@@ -4,4 +4,6 @@ title: Beatrice Borbon
 permalink: /about/
 ---
 
-Get in touch! beatrice.borbon@gmail.com
+Get in touch! 
+
+beatrice.borbon@gmail.com
